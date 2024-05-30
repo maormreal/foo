@@ -28,12 +28,6 @@
     "command": "workbench.action.focusActiveEditorGroup",
     "when": "terminalFocus"
   }, // FILE TREE
-  { "command": "workbench.action.toggleSidebarVisibility", "key": "ctrl+e" },
-  {
-    "command": "workbench.files.action.focusFilesExplorer",
-    "key": "ctrl+e",
-    "when": "editorTextFocus"
-  },
   {
     "key": "n",
     "command": "explorer.newFile",
@@ -58,10 +52,5 @@
     "command": "deleteFile",
     "key": "d",
     "when": "filesExplorerFocus && !inputFocus"
-  },
-  {
-    "key": "space f",
-    "command": "workbench.action.quickOpen",
-    "when": "!terminalFocus && !editorTextFocus"
   }
 ]
