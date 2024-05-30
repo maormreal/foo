@@ -1,0 +1,18 @@
+Ah, it seems like you're describing the "Press and Hold" feature on macOS, which displays a popup of accented characters when you hold down a key.
+
+To disable this feature and restore normal key behavior without the popup, you can use a command in the Terminal. Here's how:
+
+Open Terminal on your Mac. You can find it in the "Utilities" folder within the "Applications" folder, or you can search for it using Spotlight (Cmd + Space, then type "Terminal" and press Enter).
+
+In the Terminal window, paste the following command and press Enter:
+
+bash
+Copy code
+defaults write -g ApplePressAndHoldEnabled -bool false
+After running the command, you might need to restart any applications where you want the changes to take effect. This includes applications like VS Code.
+
+Once you've done this, the "Press and Hold" feature should be disabled, and holding down a key will repeat the character without showing the popup of accented characters. If you ever want to re-enable the feature, you can run the following command in Terminal:
+
+bash
+Copy code
+defaults write -g ApplePressAndHoldEnabled -bool true
