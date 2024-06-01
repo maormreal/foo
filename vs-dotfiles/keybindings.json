@@ -14,6 +14,11 @@
   { "key": "ctrl+shift+j", "command": "workbench.action.togglePanel" },
   { "key": "ctrl+shift+t", "command": "workbench.action.terminal.focus" },
   {
+    "key": "ctrl+shift+u",
+    "command": "workbench.action.toggleMaximizedPanel",
+    "when": "terminalFocus"
+  },
+  {
     "key": "ctrl+shift+n",
     "command": "workbench.action.terminal.new",
     "when": "terminalFocus"
