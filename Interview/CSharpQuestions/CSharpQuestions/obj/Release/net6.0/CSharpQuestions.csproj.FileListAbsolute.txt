@@ -1,0 +1,17 @@
+C:\Users\maorm\Desktop\foo\Projects\Interview\CSharpQuestions\CSharpQuestions\bin\Release\net6.0\CSharpQuestions.exe
+C:\Users\maorm\Desktop\foo\Projects\Interview\CSharpQuestions\CSharpQuestions\bin\Release\net6.0\CSharpQuestions.deps.json
+C:\Users\maorm\Desktop\foo\Projects\Interview\CSharpQuestions\CSharpQuestions\bin\Release\net6.0\CSharpQuestions.runtimeconfig.json
+C:\Users\maorm\Desktop\foo\Projects\Interview\CSharpQuestions\CSharpQuestions\bin\Release\net6.0\CSharpQuestions.dll
+C:\Users\maorm\Desktop\foo\Projects\Interview\CSharpQuestions\CSharpQuestions\bin\Release\net6.0\CSharpQuestions.pdb
+C:\Users\maorm\Desktop\foo\Projects\Interview\CSharpQuestions\CSharpQuestions\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\maorm\Desktop\foo\Projects\Interview\CSharpQuestions\CSharpQuestions\obj\Release\net6.0\CSharpQuestions.csproj.AssemblyReference.cache
+C:\Users\maorm\Desktop\foo\Projects\Interview\CSharpQuestions\CSharpQuestions\obj\Release\net6.0\CSharpQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maorm\Desktop\foo\Projects\Interview\CSharpQuestions\CSharpQuestions\obj\Release\net6.0\CSharpQuestions.AssemblyInfoInputs.cache
+C:\Users\maorm\Desktop\foo\Projects\Interview\CSharpQuestions\CSharpQuestions\obj\Release\net6.0\CSharpQuestions.AssemblyInfo.cs
+C:\Users\maorm\Desktop\foo\Projects\Interview\CSharpQuestions\CSharpQuestions\obj\Release\net6.0\CSharpQuestions.csproj.CoreCompileInputs.cache
+C:\Users\maorm\Desktop\foo\Projects\Interview\CSharpQuestions\CSharpQuestions\obj\Release\net6.0\CSharpQuestions.csproj.CopyComplete
+C:\Users\maorm\Desktop\foo\Projects\Interview\CSharpQuestions\CSharpQuestions\obj\Release\net6.0\CSharpQuestions.dll
+C:\Users\maorm\Desktop\foo\Projects\Interview\CSharpQuestions\CSharpQuestions\obj\Release\net6.0\refint\CSharpQuestions.dll
+C:\Users\maorm\Desktop\foo\Projects\Interview\CSharpQuestions\CSharpQuestions\obj\Release\net6.0\CSharpQuestions.pdb
+C:\Users\maorm\Desktop\foo\Projects\Interview\CSharpQuestions\CSharpQuestions\obj\Release\net6.0\CSharpQuestions.genruntimeconfig.cache
+C:\Users\maorm\Desktop\foo\Projects\Interview\CSharpQuestions\CSharpQuestions\obj\Release\net6.0\ref\CSharpQuestions.dll

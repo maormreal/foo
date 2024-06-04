@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QhEw1SV8C0BImMIK7TqcfwdwHEFjUo04KkGNQgZ4Qeq3aYRzM/M+Wnyfk+UhU5BfreOiTCcGFP/JWAtPSt8o6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maorm\\Desktop\\foo\\Projects\\Interview\\CSharpQuestions\\CSharpQuestions\\CSharpQuestions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maorm\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
